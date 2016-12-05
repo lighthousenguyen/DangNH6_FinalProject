@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{B746C87C-7335-4830-AAE2-ACACE4D69DB5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Targets.Todo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1F4E4891-0B77-4970-A99A-326E1A200F25" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Todo/App.cs" Line="40" Column="34" />
+      <File FileName="Todo/ISQLite.cs" Line="1" Column="1" />
+      <File FileName="Todo/ITextToSpeech.cs" Line="1" Column="1" />
+      <File FileName="Todo/Models/TodoItem.cs" Line="1" Column="1" />
+      <File FileName="Todo/Data/TodoItemDatabase.cs" Line="1" Column="1" />
+      <File FileName="Todo/Views/TodoItemCell.cs" Line="1" Column="1" />
+      <File FileName="Todo/Views/TodoItemPage.cs" Line="1" Column="1" />
+      <File FileName="Todo/Views/TodoListPage.cs" Line="1" Column="1" />
+      <File FileName="Todo/Views/TodoItemPageX.xaml.cs" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Targets.Todo.Android PreferredExecutionTarget="Android.Nexus S (KitKat)" />
+</Properties>
